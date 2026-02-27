@@ -13,8 +13,6 @@ Estudante de programação com foco em desenvolvimento Back-End.
 Tenho experiência prática com Java, JDBC, MySQL e Docker,
 criando aplicações com operações CRUD e organização em camadas (Repository/DAO).
 
-Estou constantemente evoluindo minhas habilidades em arquitetura,
-boas práticas e estrutura profissional de código.
 </p>
 
 <hr>
