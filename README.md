@@ -23,7 +23,7 @@ Desenvolvo projetos aplicando boas práticas como arquitetura em camadas, DTOs, 
 
 ---
 
-## 📚 Atualmente estudando
+##  Atualmente estudando
 
 - ✔️ APIs REST escaláveis
 - ✔️ Segurança em aplicações Java
@@ -33,7 +33,7 @@ Desenvolvo projetos aplicando boas práticas como arquitetura em camadas, DTOs, 
 
 ---
 
-## 🚀 Projetos
+##  Projetos
 
 - API REST de Vendas com autenticação JWT e controle de acesso por perfil
 - CRUD completo com validações e tratamento de erros
@@ -41,10 +41,10 @@ Desenvolvo projetos aplicando boas práticas como arquitetura em camadas, DTOs, 
 
 ---
 
-## 📫 Contato
+##  Contato
 
-🔗 LinkedIn:
+ LinkedIn:
 https://www.linkedin.com/in/joao-pedro-miguel-b860a43b4/
 
-💻 GitHub:
+ GitHub:
 https://github.com/Joao-Pedro-A-Miguel
