@@ -1,55 +1,46 @@
-## 
+# Desenvolvedor Back-End Java em formação
 
-<p align="center">
-  Desenvolvedor Back-End em formação
-</p>
+## 👨‍💻 Sobre mim
 
-<hr>
+Estudante de desenvolvimento Back-End com foco em Java e ecossistema Spring.
+Tenho experiência prática na construção de APIs REST utilizando Spring Boot, autenticação JWT, Spring Security, JPA/Hibernate e MySQL.
 
-<h2>👨‍💻 Sobre mim</h2>
+Desenvolvo projetos aplicando boas práticas como arquitetura em camadas, DTOs, validações, tratamento global de exceções e controle de acesso por perfil.
 
-<p>
-Estudante de programação com foco em desenvolvimento Back-End.
-Tenho experiência prática com Java, JDBC, MySQL e Docker,
-criando aplicações com operações CRUD e organização em camadas (Repository/DAO).
+---
 
-</p>
+## 🛠️ Tecnologias
 
-<hr>
+- ☕ Java
+- 🌱 Spring Boot
+- 🔐 Spring Security + JWT
+- 🗄️ MySQL
+- 🧩 JPA / Hibernate
+- 📦 Maven
+- 📖 Swagger / OpenAPI
+- 🐳 Docker
+- 🔗 Git & GitHub
 
-<h2>🛠️ Tecnologias</h2>
+---
 
-<p>
-  ☕ Java <br>
-  🗄️ MySQL <br>
-  🐳 Docker <br>
-  🔗 Git & GitHub
-</p>
+## 📚 Atualmente estudando
 
-<hr>
+- ✔️ APIs REST escaláveis
+- ✔️ Segurança em aplicações Java
+- ✔️ Estruturas de Dados (Map, List)
+- ✔️ Boas práticas de arquitetura Back-End
+- ✔️ Testes automatizados
 
-<h2>📚 Atualmente estudando</h2>
+---
 
-<p>
-  ✔️ Programação Orientada a Objetos <br>
-  ✔️ Estruturas de Dados (Map, List) <br>
-  ✔️ APIs REST com Java <br>
-  ✔️ Boas práticas de desenvolvimento
-</p>
+## 🚀 Projetos
 
-<hr>
+- API REST de Vendas com autenticação JWT e controle de acesso por perfil
+- CRUD completo com validações e tratamento de erros
+- Integração com banco MySQL utilizando Spring Data JPA
 
-<h2>📫 Contato</h2>
+---
 
-<p>
-  🔗 LinkedIn: 
-  <a href="https://linkedin.com/in/joão-pedro-miguel-b860a43b4" target="_blank">
-  João Pedro
-  </a>
-</p>
+## 📫 Contato
 
-<hr>
-
-<p align="center">
-  Sempre evoluindo como desenvolvedor.
-</p>
+- 🔗 LinkedIn: João Pedro
