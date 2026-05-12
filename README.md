@@ -1,6 +1,6 @@
-# Desenvolvedor Back-End Java em formação
+# Desenvolvedor Back-End Java 
 
-## 👨‍💻 Sobre mim
+##  Sobre mim
 
 Estudante de desenvolvimento Back-End com foco em Java e ecossistema Spring.
 Tenho experiência prática na construção de APIs REST utilizando Spring Boot, autenticação JWT, Spring Security, JPA/Hibernate e MySQL.
@@ -9,7 +9,7 @@ Desenvolvo projetos aplicando boas práticas como arquitetura em camadas, DTOs, 
 
 ---
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 - ☕ Java
 - 🌱 Spring Boot
@@ -43,4 +43,8 @@ Desenvolvo projetos aplicando boas práticas como arquitetura em camadas, DTOs, 
 
 ## 📫 Contato
 
-- 🔗 LinkedIn: João Pedro
+🔗 LinkedIn:
+https://www.linkedin.com/in/joao-pedro-miguel-b860a43b4/
+
+💻 GitHub:
+https://github.com/Joao-Pedro-A-Miguel
