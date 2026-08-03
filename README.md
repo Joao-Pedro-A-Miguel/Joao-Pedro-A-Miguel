@@ -1,50 +1,118 @@
-# Desenvolvedor Back-End Java 
+## Desenvolvedor Back-End Java
 
-##  Sobre mim
+Sou estudante de Sistemas de Informação, apaixonado por tecnologia e desenvolvimento de software, com foco em Back-End utilizando Java e o ecossistema Spring.
 
-Estudante de desenvolvimento Back-End com foco em Java e ecossistema Spring.
-Tenho experiência prática na construção de APIs REST utilizando Spring Boot, autenticação JWT, Spring Security, JPA/Hibernate e MySQL.
+Tenho experiência no desenvolvimento de aplicações web e APIs REST, aplicando boas práticas de programação, arquitetura em camadas e princípios de código limpo. Também desenvolvo aplicações Front-End utilizando JavaScript, Vite e Firebase, buscando criar soluções completas, intuitivas e de fácil manutenção.
 
-Desenvolvo projetos aplicando boas práticas como arquitetura em camadas, DTOs, validações, tratamento global de exceções e controle de acesso por perfil.
-
----
-
-##  Tecnologias
-
-- ☕ Java
-- 🌱 Spring Boot
-- 🔐 Spring Security + JWT
-- 🗄️ MySQL
-- 🧩 JPA / Hibernate
-- 📦 Maven
-- 📖 Swagger / OpenAPI
-- 🐳 Docker
-- 🔗 Git & GitHub
+Atualmente estou aprimorando meus conhecimentos em segurança de aplicações, arquitetura de software, banco de dados, Docker e computação em nuvem para construir sistemas cada vez mais robustos e escaláveis.
 
 ---
 
-##  Atualmente estudando
+# Projeto em Destaque
 
+## Finance Control
+
+Sistema de controle financeiro pessoal desenvolvido com **JavaScript, Vite e Firebase**, permitindo que usuários gerenciem suas finanças de forma simples, organizada e intuitiva.
+
+### Principais funcionalidades
+
+-  Autenticação de usuários com Firebase Authentication
+-  Cadastro de receitas e despesas
+-  Gerenciamento de categorias
+-  Dashboard financeiro com gráficos
+-  Histórico completo de movimentações
+-  Filtros por categoria, descrição e período
+-  Gerenciamento da conta do usuário
+-  Interface moderna e responsiva
+
+### Tecnologias utilizadas
+
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Vite
+- Firebase Authentication
+- Cloud Firestore
+- Chart.js
+- Font Awesome
+- Git
+- GitHub
+
+🔗 **Repositório:** *(adicione o link quando tornar público)*
+
+🌐 **Demonstração:** *(adicione o link do deploy quando estiver disponível)*
+
+---
+
+# 🛠️ Tecnologias
+
+### Back-End
+
+-  Java
+-  Spring Boot
+-  Spring Security
+-  JWT
+-  MySQL
+-  Spring Data JPA / Hibernate
+-  Maven
+-  Swagger / OpenAPI
+
+### Front-End
+
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+
+### Banco de Dados
+
+- MySQL
+- Cloud Firestore
+
+### Ferramentas
+
+- Git
+- GitHub
+- Docker
+- Firebase
+
+---
+
+# Atualmente estudando
+
+- ✔️ Arquitetura de Software
 - ✔️ APIs REST escaláveis
-- ✔️ Segurança em aplicações Java
-- ✔️ Estruturas de Dados (Map, List)
-- ✔️ Boas práticas de arquitetura Back-End
-- ✔️ Testes automatizados
+- ✔️ Spring Boot Avançado
+- ✔️ Docker
+- ✔️ AWS
+- ✔️ Testes Automatizados
+- ✔️ Boas práticas de desenvolvimento
+- ✔️ Estruturas de Dados
 
 ---
 
-##  Projetos
+# Objetivos
 
-- API REST de Vendas com autenticação JWT e controle de acesso por perfil
-- CRUD completo com validações e tratamento de erros
-- Integração com banco MySQL utilizando Spring Data JPA
+Meu objetivo é atuar como **Desenvolvedor Back-End Java**, contribuindo para o desenvolvimento de aplicações robustas, seguras e escaláveis, enquanto continuo evoluindo tecnicamente e aprendendo novas tecnologias.
 
 ---
 
-##  Contato
+# Próximos Projetos
 
- LinkedIn:
-https://www.linkedin.com/in/joao-pedro-miguel-b860a43b4/
+-  Sistema Financeiro com Java + Spring Boot
+-  API REST com autenticação JWT
+-  Containerização com Docker
+-  Deploy utilizando AWS
+-  Arquitetura em Microsserviços
 
- GitHub:
-https://github.com/Joao-Pedro-A-Miguel
+---
+
+# Contato
+
+### LinkedIn
+
+🔗 https://www.linkedin.com/in/joao-pedro-miguel-b860a43b4/
+
+### GitHub
+
+🔗 https://github.com/Joao-Pedro-A-Miguel
