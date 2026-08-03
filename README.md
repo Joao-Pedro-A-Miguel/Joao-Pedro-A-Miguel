@@ -44,40 +44,30 @@ Sistema de controle financeiro pessoal desenvolvido com **JavaScript, Vite e Fir
 
 ---
 
-# 🛠️ Tecnologias
+## 🛠️ Tecnologias
 
-### Back-End
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/>
+</p>
 
--  Java
--  Spring Boot
--  Spring Security
--  JWT
--  MySQL
--  Spring Data JPA / Hibernate
--  Maven
--  Swagger / OpenAPI
+**Outras tecnologias e ferramentas:**
 
-### Front-End
-
-- JavaScript
-- HTML5
-- CSS3
-- Vite
-
-### Banco de Dados
-
-- MySQL
+- Spring Security
+- JWT
+- Spring Data JPA / Hibernate
+- Swagger / OpenAPI
 - Cloud Firestore
-
-### Ferramentas
-
-- Git
-- GitHub
-- Docker
-- Firebase
-
----
-
+- 
 # Atualmente estudando
 
 - ✔️ Arquitetura de Software
