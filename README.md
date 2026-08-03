@@ -6,6 +6,31 @@ Tenho experiência no desenvolvimento de aplicações web e APIs REST, aplicando
 
 Atualmente estou aprimorando meus conhecimentos em segurança de aplicações, arquitetura de software, banco de dados, Docker e computação em nuvem para construir sistemas cada vez mais robustos e escaláveis.
 
+## Tecnologias
+
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/>
+</p>
+
+**Outras tecnologias e ferramentas:**
+
+- Spring Security
+- JWT
+- Spring Data JPA / Hibernate
+- Swagger / OpenAPI
+- Cloud Firestore
+- 
+
 ---
 
 # Projeto em Destaque
@@ -44,30 +69,6 @@ Sistema de controle financeiro pessoal desenvolvido com **JavaScript, Vite e Fir
 
 ---
 
-## Tecnologias
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/>
-</p>
-
-**Outras tecnologias e ferramentas:**
-
-- Spring Security
-- JWT
-- Spring Data JPA / Hibernate
-- Swagger / OpenAPI
-- Cloud Firestore
-- 
 # Atualmente estudando
 
 - ✔️ Arquitetura de Software
