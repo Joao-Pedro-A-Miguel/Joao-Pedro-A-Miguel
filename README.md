@@ -38,9 +38,9 @@ Sistema de controle financeiro pessoal desenvolvido com **JavaScript, Vite e Fir
 - Git
 - GitHub
 
-🔗 **Repositório:** *(adicione o link quando tornar público)*
+ **Repositório:** *(adicione o link quando tornar público)*
 
-🌐 **Demonstração:** *(adicione o link do deploy quando estiver disponível)*
+ **Demonstração:** *(adicione o link do deploy quando estiver disponível)*
 
 ---
 
@@ -111,8 +111,8 @@ Meu objetivo é atuar como **Desenvolvedor Back-End Java**, contribuindo para o 
 
 ### LinkedIn
 
-🔗 https://www.linkedin.com/in/joao-pedro-miguel-b860a43b4/
+ https://www.linkedin.com/in/joao-pedro-miguel-b860a43b4/
 
 ### GitHub
 
-🔗 https://github.com/Joao-Pedro-A-Miguel
+ https://github.com/Joao-Pedro-A-Miguel
